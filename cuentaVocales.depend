@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589741831 source:c:\users\surface 1\desktop\cuentavocales\main.c
+	<stdio.h>
+	<stdlib.h>
+
